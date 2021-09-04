@@ -1,5 +1,21 @@
 
 <item>
+
+<title>[B][COLOR aquamarine]Chamada[/COLOR][/B]</title>
+
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eP_QsiulWPA</link>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/387/265/original/icon.png?1629309423</thumbnail>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR aquamarine]Chamada do Cinema 2003![/COLOR]</info>
+
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[B][COLOR aquamarine]Missão: Impossível 2 (2000)[/COLOR][/B]</title>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e926fbfe072a57477569b86ab8632b03400ed85</link>
